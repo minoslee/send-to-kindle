@@ -6,9 +6,9 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.application import MIMEApplication
 from email import encoders
-_user = "734887251@qq.com"
-_pwd  = "szkrbtvolfaabehb"
-_to   = "8613296489829@kindle.cn"
+_user = "******@qq.com"
+_pwd  = "***********"
+_to   = "******@kindle.cn"
 
 #如名字所示Multipart就是分多个部分
 msg = MIMEMultipart()
